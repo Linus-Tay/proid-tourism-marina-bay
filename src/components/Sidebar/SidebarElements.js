@@ -71,7 +71,7 @@ export const SidebarButtonWrap = styled.div`
 
 export const SidebarButtonLink = styled(LinkRouter)`
     border-radius: 50px;
-    background: #71a4f3;
+    background: #317ff7;
     white-space: nowrap;
     padding 16px 64px;
     color: #010606;
