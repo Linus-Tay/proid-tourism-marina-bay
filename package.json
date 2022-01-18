@@ -1,6 +1,6 @@
 {
-  "name": "proid-website",
-  "homepage": "http://linus-tay.github.io/proid-tourism-marina-bay",
+  "name": "proid-tourism-marina-bay",
+  "homepage": "http://linus-tay.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
