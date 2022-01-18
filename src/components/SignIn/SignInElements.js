@@ -12,8 +12,8 @@ export const Container = styled.div`
     overflow: hidden;
     background: linear-gradient(
         108deg,
-        rgba(180, 23, 79, 1) 0%,
-        rgba(228, 61, 102, 1) 100%
+        rgba(14, 99, 230, 1) 0%,
+        rgba(49, 127, 247, 1) 100%
     );
 `
 
@@ -92,7 +92,7 @@ export const FormInput = styled.input`
 `
 
 export const FormButton = styled.button`
-    background: #e4174f;
+    background: #317ff7;
     padding: 16px 0;
     border: none;
     border-radius: 4px;
