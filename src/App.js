@@ -6,7 +6,7 @@ import SignInPage from './pages/authentication/signin';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/proid-tourism-marina-bay">
         <Switch>
             <Route path="/" component={Home} exact />
             <Route path="/signin" component={SignInPage} exact />
