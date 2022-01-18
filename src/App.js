@@ -8,8 +8,8 @@ function App() {
   return (
     <Router>
         <Switch>
-            <Route path="/proid-tourism-marina-bay/" component={Home} exact />
-            <Route path="/signin" component={SignInPage} exact />
+            <Route path="/proid-tourism-marina-bay/home" component={Home} exact />
+            <Route path="/proid-tourism-marina-bay/signin" component={SignInPage} exact />
         </Switch>
     </Router>
   );
