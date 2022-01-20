@@ -17,7 +17,7 @@ const Services = () => {
                                 exact={true}>
                         <ServicesIcon src={Icon1}/>
                         <ServicesH2>New Transportation</ServicesH2>
-                        <ServicesP>We plan to introduce shuttle buses and make e-scooters available to the public.</ServicesP>
+                        <ServicesP>We plan to introduce a unique e-scooter that will be available to rent.</ServicesP>
                     </ServicesCard>
                     <ServicesCard to="quests"   
                                 smooth={true}
