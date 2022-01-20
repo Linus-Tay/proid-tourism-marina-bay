@@ -14,7 +14,7 @@ const InfoSection = ({lightBg, id, imgStart, topLine, lightText, darkText, descr
                                 <Heading lightText={lightText}>{headline}</Heading>
                                 <Subtitle darkText={darkText}>{description}</Subtitle>
                                 <ButtonWrap>
-                                    <ButtonHref href="https://sites.google.com/np.edu.sg/proidclasssitet65/marina-bay-tours" 
+                                    <ButtonHref href="https://sites.google.com/np.edu.sg/proidclasssitet65/marina-bay-boleh" 
                                                 target="_blank">
                                     {buttonLabel}</ButtonHref>
                                 </ButtonWrap>
