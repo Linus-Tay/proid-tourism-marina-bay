@@ -25,7 +25,7 @@ export const Button = styled(Link)`
 
 export const ButtonHref = styled.a`
     border-radius: 50px;
-    background: ${({primary}) => (primary ? '#fff' : "#71a4f3")};
+    background: ${({primary}) => (primary ? '#fff' : "#317ff7")};
     white-space: nowrap;
     padding: ${({big}) => (big ? '14px 48px' : '12px 30px')};
     color: ${({dark}) => (dark ? '#fff' : '#010606')};
