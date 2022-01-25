@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/proid-tourism-marina-bay/static/css/main.b623641d.chunk.css",
-    "main.js": "/proid-tourism-marina-bay/static/js/main.d4cb33e9.chunk.js",
-    "main.js.map": "/proid-tourism-marina-bay/static/js/main.d4cb33e9.chunk.js.map",
+    "main.js": "/proid-tourism-marina-bay/static/js/main.8bbd9887.chunk.js",
+    "main.js.map": "/proid-tourism-marina-bay/static/js/main.8bbd9887.chunk.js.map",
     "runtime-main.js": "/proid-tourism-marina-bay/static/js/runtime-main.b6032feb.js",
     "runtime-main.js.map": "/proid-tourism-marina-bay/static/js/runtime-main.b6032feb.js.map",
-    "static/js/2.c0e900c8.chunk.js": "/proid-tourism-marina-bay/static/js/2.c0e900c8.chunk.js",
-    "static/js/2.c0e900c8.chunk.js.map": "/proid-tourism-marina-bay/static/js/2.c0e900c8.chunk.js.map",
+    "static/js/2.3b119b4f.chunk.js": "/proid-tourism-marina-bay/static/js/2.3b119b4f.chunk.js",
+    "static/js/2.3b119b4f.chunk.js.map": "/proid-tourism-marina-bay/static/js/2.3b119b4f.chunk.js.map",
     "index.html": "/proid-tourism-marina-bay/index.html",
     "static/css/main.b623641d.chunk.css.map": "/proid-tourism-marina-bay/static/css/main.b623641d.chunk.css.map",
-    "static/js/2.c0e900c8.chunk.js.LICENSE.txt": "/proid-tourism-marina-bay/static/js/2.c0e900c8.chunk.js.LICENSE.txt",
+    "static/js/2.3b119b4f.chunk.js.LICENSE.txt": "/proid-tourism-marina-bay/static/js/2.3b119b4f.chunk.js.LICENSE.txt",
     "static/media/svg-1.eeb24bbf.svg": "/proid-tourism-marina-bay/static/media/svg-1.eeb24bbf.svg",
     "static/media/svg-2.f7ebacc4.svg": "/proid-tourism-marina-bay/static/media/svg-2.f7ebacc4.svg",
     "static/media/svg-4.18712ce6.svg": "/proid-tourism-marina-bay/static/media/svg-4.18712ce6.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b6032feb.js",
-    "static/js/2.c0e900c8.chunk.js",
+    "static/js/2.3b119b4f.chunk.js",
     "static/css/main.b623641d.chunk.css",
-    "static/js/main.d4cb33e9.chunk.js"
+    "static/js/main.8bbd9887.chunk.js"
   ]
 }
