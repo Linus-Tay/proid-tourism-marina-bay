@@ -12,7 +12,7 @@ export const homeObjOne = {
     lightTextDesc: false,
     topLine: 'Arising Excitement',
     headline: 'Revitalising your interest in the Marina Bay area. ',
-    description: 'We plan to provide new modes of transportation around the Marina Bay area. This is accompanied with a gamified experience of the area, where there would be fun activities scattered across multiple attractions, with rewards to be won!',
+    description: 'We plan to provide a new mode of transportation around the Marina Bay area. This is accompanied with a gamified experience of the area, where there would be fun activities scattered across multiple attractions, with rewards to be won!',
     buttonLabel: 'Learn More',
     imgStart: false,
     img: svg2,
