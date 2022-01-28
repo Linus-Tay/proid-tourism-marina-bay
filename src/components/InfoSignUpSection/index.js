@@ -13,7 +13,7 @@ const InfoSection = ({lightBg, id, imgStart, topLine, lightText, darkText, descr
                                 <Heading lightText={lightText}>{headline}</Heading>
                                 <Subtitle darkText={darkText}>{description}</Subtitle>
                                 <NavButton>
-                                    <NavButtonLink to="/signup">Sign In</NavButtonLink>
+                                    <NavButtonLink to="/signup">Sign Up</NavButtonLink>
                                 </NavButton>
                             </TextWrapper>
                         </Column1>
